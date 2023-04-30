@@ -1,0 +1,2 @@
+Waiting lobby - minigame? Not sure if it is considered an 'extra feature' but the implementation is creative. Inspiration taken from dinosaur chrome game!!! Pls give mark
+Download quiz - If you can upload a quiz, surely you can download the quiz!!!

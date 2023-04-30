@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LineChart Check linechart 1`] = `
+<div
+  className="chart-container"
+>
+  <h2
+    style={
+      Object {
+        "textAlign": "center",
+      }
+    }
+  >
+    Test Title
+  </h2>
+</div>
+`;

@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "lint": "^0.8.19",
+    "react-modal": "^3.16.1",
+    "react-router-dom": "^6.10.0"
+  }
+}
